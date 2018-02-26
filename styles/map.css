@@ -1,0 +1,23 @@
+iframe {
+  width : 90%;
+  height :90%;
+}
+  html {
+    background-image: url(../images/water3.jpg);
+
+}
+ul{
+text-align: center;
+font-size : 13px;
+
+}
+footer {
+	font-size:9px;
+
+}
+html{
+	font-family: Latin Modern Mono;
+  border-width: 4px;
+ border-style: solid;
+ border-color: black;
+}
